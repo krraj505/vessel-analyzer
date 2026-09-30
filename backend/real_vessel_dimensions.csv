@@ -1,0 +1,21 @@
+vessel_name,imo_number,vessel_class,dwt,draft_m,loa_m,beam_m
+Pacific Treasure,9582312,Handysize,38200,10.20,179.90,28.40
+Interlink Capacity,9732527,Handysize,38700,10.40,180.00,30.00
+Swiman,9623843,Handysize,34400,9.80,179.90,28.00
+Glorious Sunrise,9632806,Handysize,37800,10.30,177.85,28.60
+Western Tokyo,9845100,Handysize,39300,10.50,179.99,30.00
+AAL Fremantle,9498341,Handysize,31000,9.50,161.30,27.40
+African Osprey,9692882,Handysize,37800,10.25,179.90,29.80
+Nord Power,9821811,Panamax,81800,14.45,229.00,32.26
+Coral Crystal,9588263,Panamax,78000,14.10,225.00,32.26
+Aquavita Sky,9876206,Panamax,82000,14.50,229.00,32.26
+Ocean Compass,9611228,Panamax,76500,13.80,225.00,32.26
+Kamsar Premier,9605786,Panamax,81800,14.40,229.00,32.26
+Navios Amber,9713832,Panamax,80600,14.30,229.00,32.26
+Star Iris,9301287,Panamax,76800,13.90,225.00,32.26
+Maran Horizon,9594248,Capesize,179700,18.10,292.00,45.00
+Shandong Harvest,9856501,Capesize,180000,18.20,292.00,45.00
+Mineral Cloudbreak,9601613,Capesize,175800,17.80,289.00,45.00
+HL Tubarao,9494307,Capesize,179300,18.15,292.00,45.00
+Berge Olympus,9792084,Capesize,211000,18.50,300.00,50.00
+Pacific Orion,9864227,Capesize,180200,18.25,291.90,45.00

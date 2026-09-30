@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+# Environments
+venv/
+.venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Database and Environment Variables
+*.db
+.env
+=======
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node / React
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+>>>>>>> 5818c0940bf503e83dd2a33d2d73e9eefa5c6622
